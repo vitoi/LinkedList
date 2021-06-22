@@ -1,0 +1,77 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJoinMailingListVar3'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'PythonPyTorchProfiler'
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+Starting Pylance language server.
+Error 2021-06-22 15:37:19: Failed to start language server, Class name = r, completed in 0ms, has a falsy return value, Arg 1: <Uri:/home/vito>, Arg 2: undefined, Return Value: undefined [Error: ms-python.vscode-pylance not installed
+	at d.getCurrentLanguageServerDirectory (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:232791)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async r.start (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:239159)]
+Error 2021-06-22 15:37:19: [Error: ms-python.vscode-pylance not installed
+	at d.getCurrentLanguageServerDirectory (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:232791)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async r.start (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:239159)]
+We encountered an issue starting the language server. Reverting to Jedi language engine. Check the Python output panel for details.
+Error 2021-06-22 15:37:19: Failed to activate language server, Class name = a, completed in 4ms, has a falsy return value, Arg 1: <Uri:/home/vito>, Arg 2: undefined, Return Value: undefined [Error: ms-python.vscode-pylance not installed
+	at d.getCurrentLanguageServerDirectory (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:232791)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async r.start (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:239159)]
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+Error 2021-06-22 15:37:19: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+ubuntu-20.04/home/vito/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file 'vscode-remote://wsl+ubuntu-20.04/home/vito/.config/Code/User/settings.json')
+	at _handleError (/home/vito/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/vs/server/remoteExtensionHostProcess.js:84:155535)
+	at async y.readText (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:343940)
+	at async p.doesFileNeedToBeFixed (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:581700)
+	at async /home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580827
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580773)
+	at async p.updateTestSettings (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580400)] {
+  code: 'FileNotFound'
+}
+Error 2021-06-22 15:37:19: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+ubuntu-20.04/home/vito/.vscode/settings.json' (Error: Unable to resolve non-existing file 'vscode-remote://wsl+ubuntu-20.04/home/vito/.vscode/settings.json')
+	at _handleError (/home/vito/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/vs/server/remoteExtensionHostProcess.js:84:155535)
+	at async y.readText (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:343940)
+	at async p.doesFileNeedToBeFixed (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:581700)
+	at async /home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580827
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580773)
+	at async p.updateTestSettings (/home/vito/.vscode-server/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580400)] {
+  code: 'FileNotFound'
+}
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+Error 2021-06-22 15:37:19: Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No Python interpreter is selected. You need to select a Python interpreter to enable features such as IntelliSense, linting, and debugging.
+Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No Python interpreter is selected. You need to select a Python interpreter to enable features such as IntelliSense, linting, and debugging.
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+cwd: ~/
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+cwd: ~/
+> E:\Program\Python39\python.exe -c "import sys;print(sys.prefix)"
+cwd: ~/
+> E:\Program\Python39\python.exe -c "import sys;print(sys.prefix)"
+cwd: ~/
+> E:\Program\Python39\python.exe -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/
+> E:\Program\Python39\python.exe -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/
+> E:\Program\Python39\python.exe site --user-site
+cwd: ~/
+> E:\Program\Python39\python.exe site --user-site
+cwd: ~/
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+> E:\Program\Python39\python.exe -c "import sys;print(sys.executable)"
+Python interpreter path: /bin/python3
+> conda --version
